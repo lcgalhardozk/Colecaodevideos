@@ -1,7 +1,7 @@
 body{
     background-color: black;
     
-    color:whitesmoke;
+    color: brown;
     }
     section{
     background-color:darkgray;
@@ -9,11 +9,12 @@ body{
     padding-bottom: 60px;
     display: flex;
     justify-content: center;
+    
     }
     
     .MargemTitulo {
     margin: 6%;
-    color: brown;
+   
     }
     header {
     margin: 5%;
